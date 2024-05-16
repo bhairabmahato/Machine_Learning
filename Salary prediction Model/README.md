@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Salary Prediction Model for HR Department</title>
+  /*<title>Salary Prediction Model for HR Department</title>*/
 </head>
 <body>
 
@@ -68,7 +68,8 @@
 
 <h2>Usage</h2>
 
-<p>Feel free to use and modify this model for your HR department's salary prediction needs. For any questions or issues, contact [Bhairab Mahato / bhairabmahato7384@gmial.com].</p>
+<p>Feel free to use and modify this model for your HR department's salary prediction needs. 
+  For any questions or issues, contact [Bhairab Mahato / bhairabmahato7384@gmial.com].</p>
 
 </body>
 </html>
