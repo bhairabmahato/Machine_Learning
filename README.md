@@ -103,7 +103,12 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](MIT License
+
+Copyright (c) [2024] [BHAIRAB MAHATO]
+
+Permission is hereby granted, ...
+) file for details.
 
 ---
 
