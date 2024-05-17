@@ -12,22 +12,22 @@ Welcome to the Machine Learning Projects repository! This repository contains va
 
 ## Projects
 
-1. **Linear Regression on Canada's Per Capita Income**
+1. **Salary Prediction Model for HR Department**     
+    - Description: This project involves building a machine learning model to assist the HR department in predicting salaries for future candidates based on their experience, written test scores, and personal interview scores. The model is trained using historical data provided in the "hiring.csv" file, which contains hiring statistics for a firm.     
+    - Directory: `Salary prediction Model`    
+    - [Details](Salary%20prediction%20Model/README.md)
+
+2. **Iris Flower Classification**
+    - Description:A RandomForestClassifier model is trained with 10 estimators initially and then with 50 estimators for improved accuracy.
+    - Directory: `Flower species prediction`
+    - [Details](Flower%20species%20prediction/README.md)
+
+3. **Linear Regression on Canada's Per Capita Income**
     - Description: Perform linear regression to predict per capita income for future years based on historical data.
     - Directory: `linear_regression_canada_income`
     - [Details](Canada_per_capita_income_prediction/README.md)
 
-2. **Project 2 Name**
-    - Description: Brief description of the second project.
-    - Directory: `project2_directory`
-    - [Details](project2_directory/README.md)
-
-3. **Project 3 Name**
-    - Description: Brief description of the third project.
-    - Directory: `project3_directory`
-    - [Details](project3_directory/README.md)
-
-*(Add more projects as needed)*
+**
 
 ## Installation
 
@@ -108,3 +108,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 Feel free to explore the projects and contribute! If you encounter any issues or have any questions, please open an issue in the repository.
+
