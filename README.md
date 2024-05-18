@@ -28,7 +28,7 @@ Welcome to the Machine Learning Projects repository! This repository contains va
     - [Details](Canada_per_capita_income_prediction/README.md)
 
 4. **Home Prices Prediction**
-   -Description: This project demonstrates a simple linear regression model to predict home prices based on the area. The model is trained using scikit-learn's `LinearRegression`, and the trained model is saved and loaded using both `pickle` and `joblib`.
+   - Description: This project demonstrates a simple linear regression model to predict home prices based on the area. The model is trained using scikit-learn's `LinearRegression`, and the trained model is saved and loaded using both `pickle` and `joblib`.
     - Directory: `HOME_PRICE_PREDCTION`
     - [Details](HOME_PRICE_PREDCTION/README.md)
 
