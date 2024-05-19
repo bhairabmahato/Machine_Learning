@@ -1,5 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
+
+</body>
+</html>
+
 ```markdown
-<h1># Car Prices Prediction</h1>
+# Car Prices Prediction
 
 This project demonstrates a linear regression model to predict car selling prices based on mileage and age. The model is trained using scikit-learn's `LinearRegression`, and the performance is evaluated using train-test split.
 
