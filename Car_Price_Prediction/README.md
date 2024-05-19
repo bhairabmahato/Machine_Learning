@@ -1,5 +1,5 @@
 ```markdown
-# Car Prices Prediction
+<h1># Car Prices Prediction</h1>
 
 This project demonstrates a linear regression model to predict car selling prices based on mileage and age. The model is trained using scikit-learn's `LinearRegression`, and the performance is evaluated using train-test split.
 
