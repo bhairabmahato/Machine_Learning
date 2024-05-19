@@ -24,7 +24,7 @@ Welcome to the Machine Learning Projects repository! This repository contains va
 
 3. **Linear Regression on Canada's Per Capita Income**
     - Description: Perform linear regression to predict per capita income for future years based on historical data.
-    - Directory: `linear_regression_canada_income`
+    - Directory: `Canada_per_capita_income_prediction`
     - [Details](Canada_per_capita_income_prediction/README.md)
 
 4. **Home Prices Prediction**
