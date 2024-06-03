@@ -5,8 +5,8 @@ This project analyzes an employee retention dataset to understand factors affect
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
+- [Introduction](#Introduction)
+- [Dataset](#Dataset)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Data Preparation](#data-preparation)
 - [Model Building](#model-building)
