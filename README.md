@@ -32,6 +32,9 @@ Welcome to the Machine Learning Projects repository! This repository contains va
     - Directory: `HOME_PRICE_PREDCTION`
     - [Details](HOME_PRICE_PREDCTION/README.md)
 
+4. **Car Prices Prediction**
+5. **Employee Retention Analysis and Prediction**
+
 ## Installation
 
 To set up the environment for these projects, you need to have Python installed along with the required packages. It's recommended to use a virtual environment to manage dependencies. You can install the necessary packages using pip:
