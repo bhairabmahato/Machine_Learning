@@ -1,12 +1,11 @@
-```markdown
 # Employee Retention Analysis and Prediction
 
 This project analyzes an employee retention dataset to understand factors affecting employee retention and builds a logistic regression model to predict whether employees will leave the company.
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
-- [Dataset](#Dataset)
+- [Introduction](iIntroduction)
+- [Dataset](#dataset)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Data Preparation](#data-preparation)
 - [Model Building](#model-building)
@@ -64,6 +63,3 @@ For support or inquiries, please contact [Bhairab Mahato](mailto:Bhairabmahato73
 ---
 
 Feel free to explore the project and contribute! If you encounter any issues or have any questions, please open an issue in the repository.
-```
-
-Adjust the placeholder values (e.g., `bhairabmahato`, `Bhairab Mahato`, `Bhairabmahato7384@gmail.com`) as needed.
