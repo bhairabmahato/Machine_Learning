@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib scikit-learn
     ```bash
     python your_script_name.py
     ```
-
+    
 ### Steps:
 
 1. **Data Import**: The CSV file `canada_per_capita_income.csv` is read into a DataFrame.
@@ -62,7 +62,7 @@ The linear regression model provides a prediction for Canada's per capita income
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change .
 
 ## License
 
